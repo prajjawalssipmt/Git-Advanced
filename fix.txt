@@ -1,2 +1,4 @@
 I am fixing the bugs.
 fixing another bugs.
+adding third functionality.
+alignment adding in fixing third line.
