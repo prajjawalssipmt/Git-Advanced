@@ -6,3 +6,4 @@ added year 2026 for version update.
 new feature added in footer.
 create new branch pinkmode.
 update master branch before merging to pinkmode branch.
+added purple.txt in purple mode.
