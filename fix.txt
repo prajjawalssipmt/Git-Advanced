@@ -4,3 +4,4 @@ adding third functionality.
 alignment adding in fixing third line.
 added year 2026 for version update.
 new feature added in footer.
+create new branch pinkmode.
