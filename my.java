@@ -3,7 +3,6 @@ public class my {
         System.out.println("Welcome to my world");
         System.out.println("This is a simple Java program.");
         System.out.println("Have a great day!");
-        System.out.println("Adding more functionality!");
-        System.out.println("This is a new line added to the program.");
+        System.out.println("Keep learning and coding!");
     }
 }
